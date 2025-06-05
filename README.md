@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Nakul Kataria</h1>
 <p align="center">
-  <b>A passionate Full Stack Developer | MERN Enthusiast | Product Intern at LunarBounds</b>
+  <b>A passionate Frontend Developer | MERN Enthusiast | Product Intern at Veersa Technologies</b>
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@
 #### 📚 [Leetcode DSA JavaScript Tracker](https://github.com/NakulKataria/leetcode_js)
 
 - Well-documented repo solving 175+ LeetCode/GFG problems in JS.
-- Focused on Arrays, Strings, Stacks, Queues, and Linked Lists.
+- Focused on Arrays, Strings, Stacks, Queues, Linked Lists nd Trees.
 
 ---
 
