@@ -25,7 +25,7 @@
 ### 💼 Experience
 
 #### 🔹 **Incoming SDE Intern** — *Veersa Technologies*
-📍 Remote | 🗓️ July 2025 – Present  
+📍 Noida, India | 🗓️ July 2025 – Present  
 - Expected to contribute to scalable backend systems and real-world product features.
 
 #### 🔹 **Product Intern** — *LunarBounds*
